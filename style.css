@@ -1,0 +1,30 @@
+html {
+    font-family:
+        'Open Sans',
+        'Roboto',
+        'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+        ;
+}
+
+h1 {
+    font-weight: 1000;
+}
+
+body {
+    margin: 0;
+    background-image: url("http://shiftdesignmn.com/wp-content/uploads/2016/06/COMING-SOON.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+footer {
+    position: absolute;
+    text-align: center;
+    bottom: 8%;
+    width: 100%;
+}
+
+footer .title{
+    display: inline-block;
+    width: min-content;
+}
